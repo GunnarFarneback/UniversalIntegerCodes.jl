@@ -1,0 +1,13 @@
+name = "UniversalIntegerCodes"
+uuid = "f9d38c27-4a81-4d8c-bddb-5ed3c8119a58"
+authors = ["Gunnar Farnebäck <gunnar.farneback@contextvision.se>"]
+version = "1.0.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
